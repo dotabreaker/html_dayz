@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+
+body {
+    background-color: rgb(135, 227, 159);
+    font-family: Wisper, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(15, 114, 88);
+}
+.temp {
+    font-size: 35px;
+    color: rgb(14, 111, 101);
+}
+.avatar {
+width: 900px;
+border-radius: 28px;
+box-shadow: 4px 4px 14px;
+}
+.link123 {
+    font-style: normal;
+    text-decoration: none;
+    color: rgb(66, 92, 72);
+}
+
+.link123:hover {
+    text-decoration: underline;
+    font-size: 24px;
+}
